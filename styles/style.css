@@ -105,3 +105,11 @@ body {
   font-weight: 400;
 }
 
+.curriculo {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  margin: 300px;
+  gap: 20px;
+}
