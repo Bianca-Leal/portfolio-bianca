@@ -4,7 +4,7 @@ Olá, Bem vindo ao meu projeto de portfólio.
 
 
 ## 🔗 Links
-[**🔗 Acesse o portfolio**]([https://portfolio-bianca.vercel.app/])
+[**🔗 Acesse o portfolio**](https://portfolio-bianca.vercel.app/)
 
 <br>
 
